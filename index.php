@@ -37,7 +37,7 @@
             ?>
             </tbody>
         </table>
-        <a href="cadastro.php">Inserir novo cadastro</a>
+        <a href="log2.php">Inserir novo cadastro</a>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-4EK4gFLnMmP65fTuPXBtS+7t3q3t2XhCxu1eNiqss7VYTKbTJSN7V/ahbclGwnsV" crossorigin="anonymous"></script>
 </body>
